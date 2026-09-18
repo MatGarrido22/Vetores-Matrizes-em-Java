@@ -5,7 +5,9 @@
   - a.	O maior e o menor valor;
   - b.	A média dos valores.
 3.	Criar e coletar valores inteiros nos vetores VT1[3] e VT2[3]. Concatenar esses valores em um 3º vetor (VT3[6]) e mostrar os seus dados. P. ex:
-  VT1|	1|	2|	3|	|  VT2|	4|	5|	6|	|  VT3|	1|	2|	3|	4|	5|	6
+  - VT1|	1|	2|	3|	|
+  - VT2|	4|	5|	6|	|
+  - VT3|	1|	2|	3|	4|	5|	6
 4.	Criar e coletar em um vetor [30] real e calcular e exibir:
   - a.	A média do grupo;
   - b.	A quantidade de notas acima do grupo;
